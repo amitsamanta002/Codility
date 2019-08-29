@@ -1,4 +1,4 @@
-package Practise;
+package Codility;
 
 public class PassingCars {
 

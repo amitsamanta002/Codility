@@ -1,4 +1,4 @@
-package Practise;
+package Codility;
 
 import java.util.Arrays;
 

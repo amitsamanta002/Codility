@@ -1,4 +1,4 @@
-package Practise.DynamicProgramming;
+package Codility.DynamicProgramming;
 
 public class SIzeofOperator {
 

@@ -32,20 +32,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a366174-9112-4e6a-88aa-aed7bb332587" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practise/Brackets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practise/CountDiv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practise/DynamicProgramming/CoinChange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practise/DynamicProgramming/Fibonaci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practise/DynamicProgramming/SIzeofOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practise/FrogJmp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practise/MinAvgTwoSlice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practise/NearestInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practise/OddOccurrencesInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practise/PassingCars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practise/PermMissingElem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practise/TapeEquilibrium.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/Practise/Brackets.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/Practise/CountDiv.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/Practise/DynamicProgramming/CoinChange.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/Practise/DynamicProgramming/Fibonaci.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/Practise/DynamicProgramming/SIzeofOperator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/Practise/FrogJmp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/Practise/MinAvgTwoSlice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/Practise/NearestInt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/Practise/OddOccurrencesInArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/Practise/PassingCars.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/Practise/PermMissingElem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/Practise/TapeEquilibrium.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practise/Brackets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codility/Brackets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practise/CountDiv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codility/CountDiv.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practise/DynamicProgramming/CoinChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codility/DynamicProgramming/CoinChange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practise/DynamicProgramming/Fibonaci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codility/DynamicProgramming/Fibonaci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practise/DynamicProgramming/SIzeofOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codility/DynamicProgramming/SIzeofOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practise/FrogJmp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codility/FrogJmp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practise/MinAvgTwoSlice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codility/MinAvgTwoSlice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practise/NearestInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codility/NearestInt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practise/OddOccurrencesInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codility/OddOccurrencesInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practise/PassingCars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codility/PassingCars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practise/PermMissingElem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codility/PermMissingElem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practise/TapeEquilibrium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codility/TapeEquilibrium.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -60,7 +70,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Practise/TapeEquilibrium.java">
+        <entry file="file://$PROJECT_DIR$/src/Codility/TapeEquilibrium.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
               <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
@@ -69,7 +79,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Practise/CountDiv.java">
+        <entry file="file://$PROJECT_DIR$/src/Codility/CountDiv.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="476">
               <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
@@ -78,7 +88,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Practise/MinAvgTwoSlice.java">
+        <entry file="file://$PROJECT_DIR$/src/Codility/MinAvgTwoSlice.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="476">
               <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
@@ -91,7 +101,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Practise/PassingCars.java">
+        <entry file="file://$PROJECT_DIR$/src/Codility/PassingCars.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
               <caret line="22" selection-start-line="22" selection-end-line="22" />
@@ -100,7 +110,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Practise/DynamicProgramming/Fibonaci.java">
+        <entry file="file://$PROJECT_DIR$/src/Codility/DynamicProgramming/Fibonaci.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
               <caret line="20" selection-start-line="20" selection-end-line="20" />
@@ -109,7 +119,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Practise/DynamicProgramming/CoinChange.java">
+        <entry file="file://$PROJECT_DIR$/src/Codility/DynamicProgramming/CoinChange.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="36" selection-start-column="36" selection-end-column="36" />
@@ -118,10 +128,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Practise/Brackets.java">
+        <entry file="file://$PROJECT_DIR$/src/Codility/Brackets.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="39" column="51" selection-start-line="39" selection-start-column="51" selection-end-line="39" selection-end-column="51" />
+            <state relative-caret-position="509">
+              <caret line="30" column="27" lean-forward="true" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
               <folding>
                 <element signature="e#159#170#0" expanded="true" />
               </folding>
@@ -130,7 +140,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Practise/DynamicProgramming/SIzeofOperator.java">
+        <entry file="file://$PROJECT_DIR$/src/Codility/DynamicProgramming/SIzeofOperator.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
               <caret line="5" selection-start-line="5" selection-end-line="5" />
@@ -139,7 +149,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Practise/OddOccurrencesInArray.java">
+        <entry file="file://$PROJECT_DIR$/src/Codility/OddOccurrencesInArray.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="510">
               <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
@@ -148,7 +158,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Practise/FrogJmp.java">
+        <entry file="file://$PROJECT_DIR$/src/Codility/FrogJmp.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
               <caret line="3" selection-start-line="3" selection-end-line="3" />
@@ -186,6 +196,7 @@
         <option value="$PROJECT_DIR$/src/Practise/DynamicProgramming/CoinChange.java" />
         <option value="$PROJECT_DIR$/src/Practise/DynamicProgramming/SIzeofOperator.java" />
         <option value="$PROJECT_DIR$/src/Practise/Brackets.java" />
+        <option value="$PROJECT_DIR$/src/Codility/Brackets.java" />
       </list>
     </option>
   </component>
@@ -216,7 +227,7 @@
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Practise" type="462c0819:PsiDirectoryNode" />
+              <item name="Codility" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -247,12 +258,12 @@
   </component>
   <component name="RunManager" selected="Application.Brackets">
     <configuration name="Brackets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practise.Brackets" />
+      <option name="MAIN_CLASS_NAME" value="Codility.Brackets" />
       <module name="algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practise.*" />
+          <option name="PATTERN" value="Codility.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -261,12 +272,12 @@
       </method>
     </configuration>
     <configuration name="CoinChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practise.DynamicProgramming.CoinChange" />
+      <option name="MAIN_CLASS_NAME" value="Codility.DynamicProgramming.CoinChange" />
       <module name="algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practise.DynamicProgramming.*" />
+          <option name="PATTERN" value="Codility.DynamicProgramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -275,12 +286,12 @@
       </method>
     </configuration>
     <configuration name="Fibonaci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practise.DynamicProgramming.Fibonaci" />
+      <option name="MAIN_CLASS_NAME" value="Codility.DynamicProgramming.Fibonaci" />
       <module name="algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practise.DynamicProgramming.*" />
+          <option name="PATTERN" value="Codility.DynamicProgramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -289,12 +300,12 @@
       </method>
     </configuration>
     <configuration name="PassingCars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practise.PassingCars" />
+      <option name="MAIN_CLASS_NAME" value="Codility.PassingCars" />
       <module name="algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practise.*" />
+          <option name="PATTERN" value="Codility.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -303,12 +314,12 @@
       </method>
     </configuration>
     <configuration name="SIzeofOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practise.DynamicProgramming.SIzeofOperator" />
+      <option name="MAIN_CLASS_NAME" value="Codility.DynamicProgramming.SIzeofOperator" />
       <module name="algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practise.DynamicProgramming.*" />
+          <option name="PATTERN" value="Codility.DynamicProgramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -359,13 +370,20 @@
       <option name="presentableId" value="Default" />
       <updated>1564721468993</updated>
     </task>
+    <task id="LOCAL-00001" summary="Changes for Programming practise.">
+      <created>1567105600364</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1567105600365</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="808" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26752505" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26752505" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -375,7 +393,7 @@
       <window_info id="Capture Tool" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32960895" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.083798885" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39944133" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -397,29 +415,33 @@
       <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changes for Programming practise." />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes for Programming practise." />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Practise/OddOccurrencesInArray.java</url>
+          <url>file://$PROJECT_DIR$/src/Codility/OddOccurrencesInArray.java</url>
           <line>9</line>
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Practise/DynamicProgramming/CoinChange.java</url>
+          <url>file://$PROJECT_DIR$/src/Codility/DynamicProgramming/CoinChange.java</url>
           <line>21</line>
           <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Practise/Brackets.java</url>
+          <url>file://$PROJECT_DIR$/src/Codility/Brackets.java</url>
           <line>40</line>
           <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Practise/Brackets.java</url>
+          <url>file://$PROJECT_DIR$/src/Codility/Brackets.java</url>
           <line>8</line>
           <properties />
           <option name="timeStamp" value="7" />
@@ -473,35 +495,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Practise/NearestInt.java">
+    <entry file="file://$PROJECT_DIR$/src/Codility/NearestInt.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Practise/PermMissingElem.java">
+    <entry file="file://$PROJECT_DIR$/src/Codility/PermMissingElem.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="34" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Practise/TapeEquilibrium.java">
+    <entry file="file://$PROJECT_DIR$/src/Codility/TapeEquilibrium.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Practise/CountDiv.java">
+    <entry file="file://$PROJECT_DIR$/src/Codility/CountDiv.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Practise/MinAvgTwoSlice.java">
+    <entry file="file://$PROJECT_DIR$/src/Codility/MinAvgTwoSlice.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
@@ -512,52 +534,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Practise/PassingCars.java">
+    <entry file="file://$PROJECT_DIR$/src/Codility/PassingCars.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Practise/DynamicProgramming/Fibonaci.java">
+    <entry file="file://$PROJECT_DIR$/src/Codility/DynamicProgramming/Fibonaci.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Practise/OddOccurrencesInArray.java">
+    <entry file="file://$PROJECT_DIR$/src/Codility/OddOccurrencesInArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Practise/FrogJmp.java">
+    <entry file="file://$PROJECT_DIR$/src/Codility/FrogJmp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Practise/DynamicProgramming/SIzeofOperator.java">
+    <entry file="file://$PROJECT_DIR$/src/Codility/DynamicProgramming/SIzeofOperator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Practise/DynamicProgramming/CoinChange.java">
+    <entry file="file://$PROJECT_DIR$/src/Codility/DynamicProgramming/CoinChange.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="36" selection-start-column="36" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Practise/Brackets.java">
+    <entry file="file://$PROJECT_DIR$/src/Codility/Brackets.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="39" column="51" selection-start-line="39" selection-start-column="51" selection-end-line="39" selection-end-column="51" />
+        <state relative-caret-position="509">
+          <caret line="30" column="27" lean-forward="true" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
           <folding>
             <element signature="e#159#170#0" expanded="true" />
           </folding>
